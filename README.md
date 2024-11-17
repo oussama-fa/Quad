@@ -24,18 +24,19 @@ Each function (`QuadA`, `QuadB`, etc.) accepts two parameters:
 Based on the input dimensions, the program prints rectangular patterns with specific border and fill characters.  
 
 ### Example Outputs:
-For `QuadA(5, 3)`:
+- For `QuadA(5, 3)`:
+	```bash
+	o---o
+	|   |
+	o---o
+	```
 
-o---o
-|   |
-o---o
-
-For `QuadC(5, 3)`:
-
-ABBBA
-B   B
-CBBBC
-
+- For `QuadC(5, 3)`:
+	```bash
+	ABBBA
+	B   B
+	CBBBC
+	```
 ---
 
 ## 🚀 Getting Started
@@ -44,7 +45,7 @@ CBBBC
 - Install [Go](https://go.dev/) (version 1.16 or higher).
 - Clone this repository:  
   ```bash
-  git clone https://github.com/yourusername/Quad.git
+  git clone https://github.com/oussama-fa/Quad.git
   cd Quad
 
 ### Ensure the z01 library is installed. You can get it via:
