@@ -60,7 +60,9 @@ Based on the input dimensions, the program prints rectangular patterns with spec
 	```go
 	package main
 
-	import "your-repo-path/piscine"
+	import (
+	"piscine"
+	)
 
 	func main() {
 		piscine.QuadA(5, 3)
