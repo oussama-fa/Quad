@@ -1,4 +1,4 @@
-# YouMustKnow: Pattern Generator in Go
+# Quad: Pattern Generator in Go
 
 Welcome to **Quad**, a beginner-friendly project showcasing various implementations of rectangular pattern generation in **Go (Golang)**. This project was developed during a one-week study at **Zone01 Oujda**, focusing on **DevOps** concepts and practical programming.
 
@@ -56,7 +56,7 @@ CBBBC
 
 - Edit main.go and include the following code:
 	```go
-	```"package main
+	package main
 
 	import "your-repo-path/piscine"
 
@@ -64,7 +64,7 @@ CBBBC
 		piscine.QuadA(5, 3)
 		piscine.QuadC(7, 4)
 	}
-	"```
+	
 - RUN
 	go run main.go
 
