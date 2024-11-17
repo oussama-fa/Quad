@@ -48,7 +48,8 @@ CBBBC
   cd Quad
 
 ### Ensure the z01 library is installed. You can get it via:
-- go get github.com/01-edu/z01
+- ```bash
+	go get github.com/01-edu/z01
 
 ### Running the Program:
 - ```bash
